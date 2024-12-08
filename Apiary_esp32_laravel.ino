@@ -4,9 +4,9 @@
 
 // Configuración Wi-Fi
 const char* ssid = "WLAN_VICH";
-const char* password = "VC1946CV";
+const char* password = "********";
 //const char* serverName = "http://127.0.0.1:8000/api/sensor-readings";
-const char* serverName = "http://192.168.2.182:8000/api/sensor-readings";
+const char* serverName = "http://190.160.0.180:8000/api/sensor-readings";
 
 // Pines de sensores
 #define DHTPIN_INTERNAL 17 // Sensor interno (DHT22)
